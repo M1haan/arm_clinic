@@ -1,0 +1,16 @@
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\bin\Debug\CourseWork3Sem.exe.config
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\bin\Debug\CourseWork3Sem.exe
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\bin\Debug\CourseWork3Sem.pdb
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.csproj.AssemblyReference.cache
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.FormAdmin.resources
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.FormRegistration.resources
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.FormAuthorization.resources
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.Properties.Resources.resources
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.csproj.GenerateResource.cache
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.csproj.CoreCompileInputs.cache
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.csproj.CopyComplete
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.exe
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.pdb
+C:\Users\mihaa\OneDrive\Рабочий стол\Course3sem\CourseWork3Sem-master\CourseWork3Sem\obj\Debug\CourseWork3Sem.FormClinic.resources
